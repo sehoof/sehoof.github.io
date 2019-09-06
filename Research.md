@@ -1,9 +1,5 @@
----
-title: Research
----
+# Research
 
-# About this project
-
-In a word: **Awesome!**
+My research focuses on female suffrage.
 
 See the [Home page](/README.md)
