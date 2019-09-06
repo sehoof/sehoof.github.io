@@ -1,4 +1,5 @@
 # Research
+<div style="text-align: justify">
 
 **Making Suffrage Work - Does the Political Impact of Women's Vote Depend on its Environment?**
 
