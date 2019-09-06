@@ -7,4 +7,4 @@ title: Teaching
 
 In a word: **Awesome!**
 
-See the [Home page](/sehoof.github.io/README.md)
+See the [Home page](/README.md)
