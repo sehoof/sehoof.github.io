@@ -15,6 +15,6 @@ evidence for the theoretical framework brought forward by Eggers (2017).
 
 **A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen*
 
-**How Does Family Death Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson*
+**How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson*
 
 Back to [Home page](/README.md)
