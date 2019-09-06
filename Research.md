@@ -1,3 +1,5 @@
+Back to [Home page](/README.md)
+
 # Research
 
 **Making Suffrage Work - Does the Political Impact of Women's Vote Depend on its Environment?**
@@ -18,5 +20,3 @@
 **A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen*
 
 **How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson*
-
-Back to [Home page](/README.md)
