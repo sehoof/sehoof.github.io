@@ -11,5 +11,5 @@ Previously taught:
 * Fall & Spring 2016-2018 - Public Choice and Politics - LSE Government Department (undergrad)
 <br/><br/>
 * Fall 2017 - Applied Regression Analysis - LSE Methodology Department (graduate)
-
+<br/><br/>
 Back to [Home page](/README.md)
