@@ -2,4 +2,4 @@
 
 I taught the following courses:
 
-See the [Home page](/README.md)
+Back to [Home page](/README.md)
