@@ -1,4 +1,4 @@
-[Research](Research.md) &emsp;(6 x &nbsp;) [Teaching](Teaching.md) &emsp;(6 x &nbsp;) [CV](CV.pdf)
+[Research](Research.md) &emsp; [Teaching](Teaching.md) &emsp; [CV](CV.pdf)
 
 You can use the [editor on GitHub](https://github.com/sehoof/sehoof.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
