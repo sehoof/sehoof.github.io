@@ -6,11 +6,12 @@ Institutions and their environment both shape political outcomes. Identifying th
 
 **Enforcing Women's Rights - Can Female Suffrage Change Male Gender Views?**
 
+### Work in Progress:
+
 **A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
 
-In their APSR article, Klasnja and Titiunik (2017) report a strong electoral disadvantage incumbent parties face in weak party environments like Brazil. As explanation, they propose a theory where voters punish parties who failed to discipline their lame duck incumbents. In this research note, we argue that KT misinterpret their finding and instead identify what Eggers (2017) introduced as quality-based incumbency effect. We combine empirical evidence from a replicated sample of KT's data with a model on candidate selection by Carrillo and Mariotti (2001) to support our case. To the best of our knowledge, this is the first article to provide empirical
-evidence for the theoretical framework brought forward by Eggers (2017).
-
 **A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen*
+
+**The Value of Family Networks for Male versus Female Migrants - A Study of Swedish Register Data** *with Elena Pupaza and Ben Wilson*
 
 Back to [Home page](/README.md)
