@@ -2,4 +2,4 @@
 
 My research focuses on female suffrage.
 
-See the [Home page](/README.md)
+Back to [Home page](/README.md)
