@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
 title: 'Selina Hofstetter'
 description: 'PhD Candidate in Political Science, London School of Economics & Political Science'
-show_downloads: true
-github:
-  zip_url: http://sehoof.github.io/download.zip
-  another_url: http://sehoof.github.io/CV.pdf
+show_downloads: false
