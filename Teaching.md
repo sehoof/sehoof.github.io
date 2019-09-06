@@ -4,7 +4,7 @@ Back to [Home page](/README.md)
 
 Previously taught:
 
-* **Summer 2019** - Introduction to Data Science & Machine Learning - LSE Methodology Department (undergrad & graduate)
+* **Summer 2019** - *Introduction to Data Science & Machine Learning* - LSE Methodology Department (undergrad & graduate)
 <br/><br/>
 * **Spring 2019** - Public Policy in Practice Workshop - LSE Masters of Public Administation (graduate)
 <br/><br/>
