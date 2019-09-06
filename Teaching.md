@@ -1,10 +1,5 @@
+# Teaching
 
----
-title: Teaching
----
-
-# About this project
-
-In a word: **Awesome!**
+I taught the following courses:
 
 See the [Home page](/README.md)
