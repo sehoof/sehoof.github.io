@@ -7,7 +7,6 @@ header {
   display: none;
 }
 
-div p {
-text-align: justify;
-text-justify: inter-word;
+.justify {
+	display: block;
 }
