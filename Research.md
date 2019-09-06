@@ -6,6 +6,7 @@
 
 **Enforcing Women's Rights - Can Female Suffrage Change Male Gender Views?**
 
+* **Abstract:**
 
 
 **A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
