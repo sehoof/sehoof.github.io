@@ -10,12 +10,9 @@ Institutions and their environment both shape political outcomes. Identifying th
 
 **A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
 
-In her AJPS article from 2015, O'Brien suggests to have found evidence for gender bias in political party leadership. Using a duration model, she shows that (1) the expected time until the rst female party leader is elected increases in the party's electoral performance, and (2) that male party leaders survive on average longer than female leaders when their party is performing badly, but shorter when their party is performing well. This, she suggests, shows that women's leadership undergoes more scrutiny than men's. In this short-note, we challenge O'Brien's interpretation of her findings based on four arguments: One, much of her explained variation in electing the first female leader comes from electing a new leader after bad election results. Two, she fails to provide evidence for discrimination exclusively on the grounds of sex and we find that we cannot reject the null of no gender dierence in the chance of being elected
-as new party leader. Three, her method of assigning the most recent election result to current leaders inaccurately associates new leaders with past leaders' performance, introducing invalid comparisons. Four, she proposes to control for parties' trajectories, but only holds the most recent election performance constant. This neglects diering trends in parties' popularity among voters.
-
-**A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
-
 In their APSR article, Klasnja and Titiunik (2017) report a strong electoral disadvantage incumbent parties face in weak party environments like Brazil. As explanation, they propose a theory where voters punish parties who failed to discipline their lame duck incumbents. In this research note, we argue that KT misinterpret their finding and instead identify what Eggers (2017) introduced as quality-based incumbency effect. We combine empirical evidence from a replicated sample of KT's data with a model on candidate selection by Carrillo and Mariotti (2001) to support our case. To the best of our knowledge, this is the first article to provide empirical
 evidence for the theoretical framework brought forward by Eggers (2017).
+
+**A Better Measure for Gender Bias** *with Salomo Hirvonen*
 
 Back to [Home page](/README.md)
