@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Research](Research.md)
-
-[Teaching](Teaching.md)
-
-[CV](CV.md)
+[Research](Research.md)           [Teaching](Teaching.md)             [CV](CV.md)
 
 You can use the [editor on GitHub](https://github.com/sehoof/sehoof.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
