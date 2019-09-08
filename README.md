@@ -1,6 +1,6 @@
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
-<div align="center"><img src="sehoof.jpg" width="120"> &nbsp; &nbsp; <img src="women.jpg" width="130"></div>
+<div align="center"><img src="sehoof.jpg" width="120"></div>
 
 I am currently a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE.
 
