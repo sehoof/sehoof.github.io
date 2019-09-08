@@ -2,7 +2,7 @@
 
 I am currently a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE.
 
-<img src="sehoof.jpg" width="180">
+<img src="sehoof.jpg" width="180"> My research focus
 
 
 
