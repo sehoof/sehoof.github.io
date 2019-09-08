@@ -18,4 +18,4 @@ Back to [Home page](/README.md)
 
 **A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen*
 
-**How Does the Death of Family Members Affect (Female) Migrants' Lives?** using Swedish register data *with Elena Pupaza and Ben Wilson*
+**The Economic & Political Impact of Death of Family Members on (Female) Migrants** *with Elena Pupaza and Ben Wilson*
