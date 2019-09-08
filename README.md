@@ -6,7 +6,7 @@ Currently, I am a visiting researcher at the Perelman Center for Political Scien
 
 In 2018, my colleagues and I founded "VAM - Very Applied Methods" as a cooperation between the LSE European Institute, the Government and Methodology Department. We organise and teach regular cross-departmental PhD workshops on applying quantitative methods and programming in research.
 
-My passions besides research are reading and sports (especially running & tennis), and I am an active member of the Toastmasters 104 London Debaters club.
+My passions besides research are reading and sports (especially running & tennis), and I am an active member of the Toastmasters 104 London Debaters club. This replaced my devoted membership in the Young Liberals party ("Jungfreisinn") when I was still living in Switzerland.
 
 
 
