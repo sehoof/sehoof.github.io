@@ -19,4 +19,4 @@ Back to [Home page](/README.md)
 
 **A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
 
-**Network Dependency - What's the Political & Economic Impact of a Family Member's Death on (Female) Migrants's Lives?** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
+**Network Dependency - How Does the Death of Family Members Affect (Female) Migrants' Lives** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
