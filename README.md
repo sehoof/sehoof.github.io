@@ -2,7 +2,9 @@
 
 I am a Ph.D. candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE. My research analyses the performance of democratic institutions with a focus on women. 
 
-I use empirical quantitative methods with a focus on causal inference, but I am also familiar with game theory and very interested in co-authoring with formal theorists. For my dissertation on the introduction of local female suffrage in Switzerland, I collected and coded an unique historical dataset at the Swiss municipality level between 1950-1990. To complete this, I was supported by a STICERD Ph.D. grant.
+I use empirical quantitative methods with a focus on causal inference, but I am also familiar with game theory and very interested in co-authoring with formal theorists. 
+
+For my dissertation on the introduction of local female suffrage in Switzerland, I collected and coded an unique historical dataset at the Swiss municipality level between 1950-1990. To complete this, I was supported by a STICERD Ph.D. grant.
 
 Currently, I am a visiting researcher at the University of Pennsylvania in Philadelphia until December 2019. From January until April 2020, I will be a visiting researcher at Uppsala University in Sweden. I attended the EITM Summer Institute at Emory University in 2019 and the Zurich Summer School for Women in Political Methodology in 2017. 
 
