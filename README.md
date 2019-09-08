@@ -1,3 +1,3 @@
 [**Research**](Research.md) &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; [**Connect**](Connect.md)
 
-{:.foo}![sehoof](sehoof.jpg) &nbsp; &nbsp; I am currently a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE.
+![sehoof](sehoof.jpg){:.some-css-class width="200"} &nbsp; &nbsp; I am currently a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE.
