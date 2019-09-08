@@ -6,7 +6,7 @@ Currently, I am a visiting researcher at the University of Pennsylvania in Phila
 
 In 2018, my colleagues and I founded "VAM - Very Applied Methods" as a cooperation between the LSE European Institute, the Government and Methodology Department. We organise and teach regular cross-departmental PhD workshops on applying quantitative methods and programming in research.
 
-My passions besides research are reading (mainly classics & history) and sports (especially running, tennis & skiing/snowboarding). I am also a devoted member of the Toastmasters 104 London Debaters club, which replaced my active participation in the Young Liberals party ("Jungfreisinn") while living in Switzerland.
+My passions besides research are reading (mainly classics & history) and sports (especially running, tennis & skiing). I am also a devoted member of the Toastmasters 104 London Debaters club, which replaced my active participation in the Young Liberals party ("Jungfreisinn") while living in Switzerland.
 
 
 
