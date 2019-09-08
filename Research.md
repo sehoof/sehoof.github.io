@@ -8,15 +8,15 @@ Back to [Home page](/README.md)
 
 **Enforcing Women's Rights - Can Female Suffrage Change Male Gender Views?**
 
-* **Abstract:**
+* **Abstract:** 
 
 
-**A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
+**A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt (LSE Econ) and Greg Sheen (NYU-Abu Dhabi)*
 
 * **Abstract:** In their APSR article, Klasnja and Titiunik (2017) report a strong electoral disadvantage incumbent parties face in weak party environments like Brazil. As explanation, they propose a theory where voters punish parties who failed to discipline their lame duck incumbents. In this research note, we argue that KT misinterpret their finding and instead identify what Eggers (2017) introduced as quality-based incumbency effect. We combine empirical evidence from a replicated sample of KT's data with a model on candidate selection by Carrillo and Mariotti (2001) to support our case. To the best of our knowledge, this is the first article to provide empirical evidence for the theoretical framework brought forward by Eggers (2017).
 
 ### Early Work in Progress:
 
-**A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
+**A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (University of Bristol) (working with cross-national party leadership and polling data)*
 
-**Network Dependency - How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
+**Network Dependency - How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza (LSE Gov) and Ben Wilson (Stockholm University) (working with Swedish register data)*
