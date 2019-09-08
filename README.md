@@ -1,6 +1,6 @@
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
-I am a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE. Using quantitative methods, my research analyses the performance of democratic institutions with a focus on women. The institution I am mainly interested in at the moment is female suffrage and how it changes women's (and men's) lives within different environments.
+I am a PhD candidate at the Government Department (Political Science & Political Economy, PSPE) at LSE. Using quantitative methods, my research analyses the performance of democratic institutions with a focus on women. The institution I am mainly interested in at the moment is female suffrage and how it changes women's (and men's) lives across different environments.
 
 Currently, I am a visiting researcher at the University of Pennsylvania in Philadelphia until December 2019. From January until April, I will be a visiting researcher at Uppsala University in Sweden. I attended the EITM Summer Institute at Emory University in 2019 and the Zurich Summer School for Women in Political Methodology in 2017. 
 
