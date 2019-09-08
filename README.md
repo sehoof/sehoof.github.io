@@ -6,7 +6,7 @@ Currently, I am a visiting researcher at the Perelman Center for Political Scien
 
 Using quantitative methods, my research mainly analyses the performance of democratic institutions with a focus on women. 
 
-In 2018, my PhD colleagues and I founded "VAM - Very Applied Methods" as a cooperation between the LSE European Institute, the Government and Methodology Department. We were awarded a grant in order to organise regular cross-departmental PhD workshops on applying quantitative methods and programming in research.
+In 2018, my colleagues and I founded "VAM - Very Applied Methods" as a cooperation between the LSE European Institute, the Government and Methodology Department. We were awarded a grant in order to organise regular cross-departmental PhD workshops on applying quantitative methods and programming in research.
 
 My passions besides research are reading and sports (especially running & tennis), and I am an active member of the Toastmasters 104 London Debaters club.
 
