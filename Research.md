@@ -8,7 +8,7 @@ Back to [Home page](/README.md)
 
 **Enforcing Women's Rights - Can Female Suffrage Change Gender Views?**
 
-**Abstract:** I exploit quasi-random introductions of cantonal female suffrage in Switzerland to investigate whether they affect men's support for women's right to vote at the national level. Being exposed to a local franchise extension between two referenda on national female suffrage in 1959 and 1971 had a significant positive impact on men's vote share in favour of the referendum. 
+**Abstract:** I exploit quasi-random introductions of cantonal female suffrage in Switzerland to investigate whether they affect men's support for women's right to vote at the national level. Being exposed to a local franchise extension between two referenda on national female suffrage in 1959 and 1971 had a significant positive impact on the male vote share in favour of the referendum. At a closer look, this effect only occurred for municipalities where men had (initially) opposed women's vote, while there is no evidence for an effect for municipalities that had always supported female suffrage. 
 
 
 **A Quality-based Explanation for the Incumbency Curse** *with Hugo Reichhardt and Greg Sheen*
