@@ -16,6 +16,6 @@ Back to [Home page](/README.md)
 
 ### Early Work in Progress:
 
-**A Better Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
+**An Improved Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
 
 **How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
