@@ -6,9 +6,6 @@ I use empirical quantitative methods with a focus on causal inference, but I am 
 
 From March until June 2020, I visited Uppsala University. From September 2019 until March 2020, I was a visiting researcher at the University of Pennsylvania. I attended the [EITM Summer Institute](http://eitm.emory.edu/) at Emory University in 2019 and the [Zurich Summer School for Women in Political Methodology](http://zurichsummerschool.com/) in 2017. 
 
-I am a co-founder of LSE's [*"VAM - Very Applied Methods"*](https://moodle.lse.ac.uk/course/view.php?id=5881), a cooperation between the European Institute, the Government and the Methodology Department at LSE. We organise and teach regular cross-departmental PhD workshops on applying quantitative methods and programming in research.
-
-My addictions besides research are reading and sports. I am also a devoted member of the Toastmasters 104 London Debaters club, which replaced my active participation in the Young Liberals party (*"Jungfreisinn"*) while living in Switzerland.
 
 
 
