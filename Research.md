@@ -19,3 +19,6 @@ Back to [Home page](/README.md)
 **An Improved Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
 
 **How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
+
+**Who Became A Nazi?** *with Jan Stuckatz, Victor Gay and William Mikkel Dack (building a structured database of the denazification questionnaires from the U.S.
+Occupation Zone in Germany, 1945-1949)*
