@@ -14,7 +14,7 @@ Back to [Home page](/README.md)
 
 <p align = 'justify'> <b>Abstract:</b> Partisan incumbency disadvantage is the extent to which a candidate is im- peded by her party’s incumbency status in an open-seat race. The current lit- erature suggests its prevalence in young democracies and explains it through weak parties or corruption. However, we show that canonical regression dis- continuity designs (RD) to estimate this quantity can contain a negative bias. Cause is an imbalance in voters’ uncertainty about the candidate’s quality at the RD cut-off. We propose a revised empirical strategy to circumvent bias. Replicating a study by Klasnja & Titiunik (2017) using Brazilian mayoral election data from 1996-2012, we apply both the canonical and the revised strategy to identify the electoral disadvantage incumbent parties face. We find that using the new approach cuts the replicated effect by three quarters (from -13.2% to -3.1%).</p>
 
-### Early Work in Progress:
+### Work in Progress:
 
 **An Improved Measure for Gender Bias Against Female Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
 
