@@ -2,7 +2,7 @@ Back to [Home page](/README.md)
 
 # Research
 
-[**Making Suffrage Work - The impact of female suffrage in different environments**](https://www.dropbox.com/s/vuiy9zw9qclcp1e/suffrage.pdf?dl=0)
+[**Making Suffrage Work - The impact of female suffrage in different environments**](https://www.dropbox.com/s/u5zayov1thm3tey/suffrage_Oct2020.pdf?dl=0)
 
 <p align = 'justify'> <b>Abstract:</b> I exploit quasi-random local franchise extensions to Swiss women in the late 20th century to empirically identify the political impact of female suffrage in different contexts. First, I analyse municipalities with a male majority in favor of women's vote and ones with a majority against it. I further study municipalities with a parliament versus direct-democratic assemblies. My findings show that female suffrage caused a right-wing effect in municipal party vote shares and expenditure. However, municipalities that favoured female suffrage moved more center-right than right, and experienced a lower drop in electoral turnout. Municipalities with a parliament instead of an assembly making budget decisions, experienced an increase instead of a drop in expenditure. I complement my findings with a national election survey from 1972 to show that the effects might be driven by differences in women's political interest.</p>
 
