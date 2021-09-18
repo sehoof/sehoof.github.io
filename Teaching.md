@@ -2,6 +2,10 @@ Back to [Home page](/README.md)
 
 # Teaching
 
+Current:
+* **Fall 2021** - *Gender \& US Politics* - Stanford Unviersity, Political Science Department (undergraduate)
+<br/><br/>
+
 Previously taught:
 
 * **Spring 2020** - *Political Science & Public Policy* - LSE School of Public Policy (graduate)
