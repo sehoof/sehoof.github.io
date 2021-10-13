@@ -1,4 +1,4 @@
-![Photo](https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg = 250x)
+![Photo](https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg)
 
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
