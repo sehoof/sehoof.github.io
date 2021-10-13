@@ -1,3 +1,5 @@
+![Photo](https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg){ width=30% }
+
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
 I am a Postdoctoral Fellow at [Stanford University's Democracy & Polarization Lab](https://stanforddpl.org/). I hold a Ph.D. in Political Science from the London School of Economics (LSE). My main interest is Political Economy using empirical quantitative methods. My research focuses on democratization and the effects of inclusive institutions, with a focus on women.
