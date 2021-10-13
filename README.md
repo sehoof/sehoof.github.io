@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg" width="20">
+<img src="https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg" width="150">
 
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
