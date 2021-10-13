@@ -1,4 +1,4 @@
-![Photo](https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg){ width=30% }
+![Photo](https://raw.githubusercontent.com/sehoof/sehoof.github.io/master/images/foto_SH.jpg){:height="36px" width="36px"}
 
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
