@@ -2,7 +2,7 @@ Back to [Home page](/README.md)
 
 # Research
 
-[**Non-Progressive Women's Vote - The varied political impact of female suffrage**](https://www.dropbox.com/s/a461yj31hjfvs0l/Hofstetter%20Suffrage.pdf?dl=0) *Job Market Paper*
+[**Non-Progressive Women's Vote - The varied political impact of female suffrage**](https://www.dropbox.com/s/v8sxoprmuy0mc7r/suffrage.pdf?dl=0) *Job Market Paper*
 
 <p align = 'justify'> <b>Abstract:</b> Women's political inclusion is widely associated with progressive policy change. Important causal evidence comes from the local impact female suffrage had during the US Progressive Era, a period in which American politics already followed a liberal trend. I hypothesize that the political impact of largely low-informed new female voters depends on their political context, such as the turnout and vote choice of their male household members. To test this, I exploit quasi-random local franchise extensions to women between 1966-1971 in Switzerland when right-wing parties experienced a momentum. My findings show that in this context, female suffrage moved municipal party vote shares to the right and lowered municipal expenditure. I complement my findings with a 1972 national election survey to provide suggestive evidence that the effects are driven by selection into turnout of women from households with right-voting men. I further exploit the change in municipal Yes-vote shares among male voters for two Swiss national referenda on female suffrage between 1959 and 1971. I show that municipalities, which quasi-randomly introduced local female suffrage in between the two referenda, increased their support much more. This increase is driven by municipalities in which a majority of men was initially opposed to national suffrage. Hence, I find no indication of male backlash against women's vote.</p>
 
@@ -18,6 +18,6 @@ Back to [Home page](/README.md)
 
 **Measuring Gender Bias Against Political Leaders** *with Salomo Hirvonen (working with cross-national party leadership and polling data)*
 
-**Ranked Choice Voting \& Minority Candidates' Electoral Chances** *with Karen Nershi*
+**Ranked Choice Voting & Minority Candidates' Electoral Chances** *with Karen Nershi*
 
 **How Does the Death of Family Members Affect (Female) Migrants' Lives?** *with Elena Pupaza and Ben Wilson (working with Swedish register data)*
