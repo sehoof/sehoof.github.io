@@ -5,7 +5,7 @@ Back to [Home page](/README.md)
 Current:
 * **Fall 2022** - *Public Choice & Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Fall 2022** - *Tec Week - Gender & Politics* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Fall 2022** - *Tec Week - Gender & Politics* - Tecnológico de Monterrey, Cross-Department Workshop Week (undergraduate)
 <br/><br/>
 
 Previously taught:
