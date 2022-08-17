@@ -3,11 +3,14 @@ Back to [Home page](/README.md)
 # Teaching
 
 Current:
-* **Fall 2021** - *Gender \& US Politics* - Stanford University, Political Science Department (undergraduate)
+* **Fall 2022** - *Public Choice & Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+<br/><br/>
+* **Fall 2022** - *Tec Week - Gender & Politics* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
 <br/><br/>
 
 Previously taught:
-
+* **Fall 2021** - *Gender & US Politics* - Stanford University, Political Science Department (undergraduate)
+<br/><br/>
 * **Spring 2020** - *Political Science & Public Policy* - London School of Economics (LSE), School of Public Policy (graduate)
 <br/><br/>
 * **Summer 2019** - *Introduction to Data Science & Machine Learning* - LSE, Methodology Department (undergrad & graduate)
