@@ -2,7 +2,7 @@ Back to [Home page](/README.md)
 
 # Contact
 
-Email: [selinah@stanford.edu](mailto:selinah@stanford.edu)<br/>
+Email: [selinah@tec.mx](mailto:selinah@tec.mx)<br/>
 Github: [Sehoof](https://github.com/sehoof)<br/>
 
 
