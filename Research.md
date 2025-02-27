@@ -22,6 +22,8 @@ with Uchechi Anaduaka, Anna Wilke, and Tinghua Yu
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
 with Karen Nershi
 
+**What Drives Support for Enfranchisement? - The Case of Swiss Female Suffrage**
+
 ### Work in Progress
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
