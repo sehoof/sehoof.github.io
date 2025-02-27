@@ -19,6 +19,9 @@ with Anna Wilke and Tinghua Yu
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
 with Uchechi Anaduaka, Anna Wilke, and Tinghua Yu
 
+**Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
+with Uchechi Anaduaka, Anna Wilke, and Tinghua Yu
+
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
 with Karen Nershi
 
