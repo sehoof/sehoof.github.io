@@ -3,15 +3,17 @@ Back to [Home page](/README.md)
 # Teaching
 
 **Tecnológico de Monterrey**
-* **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Spring 2023 & Fall 2024** - *Microeconomic Incentives & Macroeconomic Outcomes* - Tecnológico de Monterrey, Department of Economics (undergraduate)
+* **Spring 2023 & Fall 2024** - *Microeconomic Incentives & Macroeconomic Outcomes* - Department of Economics (undergraduate)
 <br/><br/>
-* **Spring 2023-2024** - *Technological Change & Social Development* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Spring 2023-2024** - *Technological Change & Social Development* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Fall 2022-2024 & Spring 2024** - *Semana Tec: Diveristy in a Globalized World* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Fall 2022-2024 & Spring 2024** - *Semana Tec: Diveristy in a Globalized World* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Spring 2023** - *Semana Tec: Global Power and Economy* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Spring 2023** - *Semana Tec: Global Power and Economy* - Department of Political Science & International Relations (undergraduate)
+<br/><br/>
+* **Spring 2023 & Fall 2024** - Data scientist on interdepartmental project "Measuring Human Flourishing in Latin America"
 <br/><br/>
 
 **Stanford University**
