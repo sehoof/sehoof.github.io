@@ -2,6 +2,7 @@ Back to [Home page](/README.md)
 
 # Teaching
 
+**Tecnológico de Monterrey**
 * **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
 <br/><br/>
 * **Spring 2023 & Fall 2024** - *Microeconomic Incentives & Macroeconomic Outcomes* - Tecnológico de Monterrey, Department of Economics (undergraduate)
