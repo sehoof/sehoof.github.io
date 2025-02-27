@@ -4,6 +4,8 @@ Back to [Home page](/README.md)
 
 ### Papers Under Review
 
+**Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
+
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with Greg Chih-Hsin Sheen
 
@@ -12,7 +14,7 @@ with Anna Wilke and Tinghua Yu
 
 ### Working Papers
 
-**Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
+**Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
 with Uchechi Anaduaka, Anna Wilke, and Tinghua Yu
