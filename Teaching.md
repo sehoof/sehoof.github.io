@@ -2,13 +2,16 @@ Back to [Home page](/README.md)
 
 # Teaching
 
-Current:
-* **Fall 2022** - *Public Choice & Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+* **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Fall 2022** - *Tec Week: Gender & Politics* - Tecnológico de Monterrey, cross-departmental workshop (undergraduate)
+* **Spring 2023 & Fall 2024** - *Microeconomic Incentives & Macroeconomic Outcomes* - Tecnológico de Monterrey, Department of Economics (undergraduate)
 <br/><br/>
-
-Previously taught:
+* **Spring 2023-2024** - *Technological Change & Social Development* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+<br/><br/>
+* **Fall 2022-2024 & Spring 2024** - *Semana Tec: Diveristy in a Globalized World* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+<br/><br/>
+* **Spring 2023** - *Semana Tec: Global Power and Economy* - Tecnológico de Monterrey, Department of Political Science & International Relations (undergraduate)
+<br/><br/>
 * **Fall 2021** - *Gender & US Politics* - Stanford University, Political Science Department (undergraduate)
 <br/><br/>
 * **Spring 2020** - *Political Science & Public Policy* - London School of Economics (LSE), School of Public Policy (graduate)
