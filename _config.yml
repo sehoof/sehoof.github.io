@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: 'Selina Hofstetter'
-description: ''
+description: 
 show_downloads: false
+show_footer: false
