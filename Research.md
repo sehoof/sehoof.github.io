@@ -27,9 +27,6 @@ with Karen Nershi
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
 with Uchechi Anaduaka, Cristina Mac Gregor Vanegas, and Anna Wilke
 
-**Who Became a Nazi? - A Structured Database of the Denazification Questionnaires from the US Occupation Zone in Post-War Germany, 1945-49** <br> 
-with Mikkel Dack, Victor Gay, and Jan Stuckatz
-
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with Greg Chih-Hsin Sheen
 
