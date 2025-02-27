@@ -32,3 +32,7 @@ with Mikkel Dack, Victor Gay, and Jan Stuckatz
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with Greg Chih-Hsin Sheen
+
+### Current Grants
+
+2022-2025 Co-PI Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). $475,000
