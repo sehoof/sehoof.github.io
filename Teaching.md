@@ -13,8 +13,6 @@ Back to [Home page](/README.md)
 <br/><br/>
 * **Spring 2023** - *Semana Tec: Global Power and Economy* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Spring 2023 & Fall 2024** - Data scientist on interdepartmental project "Measuring Human Flourishing in Latin America"
-<br/><br/>
 
 **Stanford University**
 * **Fall 2021** - *Gender & US Politics* - Stanford University, Political Science Department (undergraduate)
