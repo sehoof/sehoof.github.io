@@ -6,3 +6,16 @@
 p {
   text-align: justify;
 }
+
+.site-header p {
+    display: none; /* Hide the default description text */
+}
+
+.profile-photo {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
