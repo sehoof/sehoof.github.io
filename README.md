@@ -1,10 +1,11 @@
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
-I am an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico. Before, I was a Postdoctoral Fellow at [Stanford University's Democracy & Polarization Lab](https://stanforddpl.org/). I hold a Ph.D. in Political Science from the London School of Economics (LSE). My main interest is Political Economy using empirical quantitative methods. My research focuses on democratization and the effects of inclusive institutions, with a focus on women.
+I am an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico. 
 
-For my dissertation on the introduction of local female suffrage in Switzerland, I collected and coded an unique historical dataset at the Swiss municipality level between 1940-1990. To complete this, I received support from the [Baroness Birk Award](http://www.lse.ac.uk/supporting-lse/your-gifts-in-action/2016-2017/20-years-of-the-baroness-birk-award) and the [STICERD Ph.D. Grant](https://sticerd.lse.ac.uk/_new/funding/grants/PhD.asp).
+Within comparative politics, my research focuses on the effects and causes of women's political inclusion. I study these topics in Western Europe, Sub-Saharan Africa, and the US. My research employs causal inference methods, including both experimental and observational data.
 
-From March until June 2020, I visited Uppsala University. From September 2019 until March 2020, I was a visiting researcher at the University of Pennsylvania. I attended the [EITM Summer Institute](http://eitm.emory.edu/) at Emory University in 2019 and the [Zurich Summer School for Women in Political Methodology](http://zurichsummerschool.com/) in 2017. 
+I received my Ph.D. in Political Science from the London School of Economics (LSE). Before joining Tec de Monterrey, I was a Postdoctoral Fellow at [Stanford University's Democracy & Polarization Lab](https://stanforddpl.org/). 
+
 
 
 
