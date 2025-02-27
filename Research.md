@@ -32,6 +32,6 @@ with Greg Chih-Hsin Sheen
 
 ### Funded Projects
 
-2022-2025. Co-PI Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). $475,000
+2022-2025. Co-PI Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation) with Uchechi Anaduaka, Anna Wilke, and Tinghua Yu. $475,000
 
-2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Approx. $335,472
+2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949" (with Mikkel Dack, Victor Gay, and Jan Stuckatz). Approx. $335,472
