@@ -9,7 +9,7 @@ Back to [Home page](/README.md)
 <br/><br/>
 * **Spring 2023-2024** - *Technological Change & Social Development* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
-* **Fall 2022-2024 & Spring 2024** - *Semana Tec: Diveristy in a Globalized World* - Department of Political Science & International Relations (undergraduate)
+* **Fall 2022, 2024 & Spring 2024** - *Semana Tec: Diveristy in a Globalized World* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
 * **Spring 2023** - *Semana Tec: Global Power and Economy* - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
