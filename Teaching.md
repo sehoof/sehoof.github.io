@@ -30,3 +30,4 @@ Back to [Home page](/README.md)
 * **Fall & Spring 2016-2018** - *Public Choice & Politics* - LSE, Government Department (undergraduate)
 <br/><br/>
 * **Fall 2017** - *Applied Regression Analysis* - LSE, Methodology Department (graduate)
+<br/><br/>
