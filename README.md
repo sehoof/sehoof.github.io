@@ -1,4 +1,4 @@
-[**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
+[**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV_Selina_Hofstetter.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
 I am an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico. 
 
