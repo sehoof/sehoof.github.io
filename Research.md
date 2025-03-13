@@ -7,8 +7,9 @@ Back to [Home page](/README.md)
 **Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
 
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
-with Greg Chih-Hsin Sheen
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/2h4rlqe1mimr01o3ttq5m/Partisan-Incumbency-Disadvantage.pdf?rlkey=izu47v2tpn4s76kbyldf22qrg&dl=0)<br/>
+with Greg Chih-Hsin Sheen <br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/2h4rlqe1mimr01o3ttq5m/Partisan-Incumbency-Disadvantage.pdf?rlkey=izu47v2tpn4s76kbyldf22qrg&dl=0) 
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0) <br/>
 
 **Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
 with Anna M. Wilke and Tinghua Yu
