@@ -9,10 +9,12 @@ Back to [Home page](/README.md)
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with Greg Chih-Hsin Sheen <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/2h4rlqe1mimr01o3ttq5m/Partisan-Incumbency-Disadvantage.pdf?rlkey=izu47v2tpn4s76kbyldf22qrg&dl=0) 
-[  Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0) <br/>
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0) <br/>
 
 **Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
 with Anna M. Wilke and Tinghua Yu
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) 
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/yfdmhi28urtjh4p1x0kzx/Performing-Below-Expectations_Appendix.pdf?rlkey=0hdh9e2spj5zj9m58zvb319lj&dl=0) <br/>
 
 ### Working Papers
 
