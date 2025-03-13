@@ -34,7 +34,8 @@ with Karen Nershi
 ### Work in Progress
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
-with Uchechi S. Anaduaka, Cristina Mac Gregor Vanegas, and Anna M. Wilke
+with Uchechi S. Anaduaka, Cristina Mac Gregor Vanegas, and Anna M. Wilke <br>
+[Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with Greg Chih-Hsin Sheen
@@ -43,4 +44,5 @@ with Greg Chih-Hsin Sheen
 
 2022-2025. Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu. $475,000
 
-2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Co-PI with Mikkel Dack, Victor Gay, and Jan Stuckatz. Approx. $335,472
+2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Co-PI with Mikkel Dack, Victor Gay, and Jan Stuckatz. Approx. $335,472 <br>
+[Project Summary](https://anr.fr/Project-ANR-21-FRAL-0005) 
