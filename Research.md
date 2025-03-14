@@ -8,7 +8,7 @@ Back to [Home page](/README.md)
 
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with Greg Chih-Hsin Sheen <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/2h4rlqe1mimr01o3ttq5m/Partisan-Incumbency-Disadvantage.pdf?rlkey=izu47v2tpn4s76kbyldf22qrg&dl=0) &nbsp;&nbsp;
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp;&nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0) <br/>
 
 **Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
