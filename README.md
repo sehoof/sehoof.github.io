@@ -1,6 +1,6 @@
 [**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV_Selina_Hofstetter.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
 
-I am currently a Visiting Research at the Department of Political Science at the University of Zurich. From 2022-2025, I was an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico. 
+I am a Visiting Researcher at the Department of Political Science at the University of Zurich. From 2022-2025, I was an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico.
 
 Within comparative politics, my research focuses on voting behavior and the effects and causes of women's political inclusion. I study these topics in Western Europe, Sub-Saharan Africa, and the US. My research employs causal inference methods using both experimental and observational data.
 
