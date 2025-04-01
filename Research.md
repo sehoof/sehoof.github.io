@@ -8,13 +8,13 @@ Back to [Home page](/README.md)
 
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with Greg Chih-Hsin Shee <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) <br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp; &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
 
 **Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
 with Anna M. Wilke and Tinghua Yu <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) <br>
-[Pre-Analysis Plan](https://osf.io/8nvkg) <br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) &nbsp; &nbsp;
+[Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp; &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/yfdmhi28urtjh4p1x0kzx/Performing-Below-Expectations_Appendix.pdf?rlkey=0hdh9e2spj5zj9m58zvb319lj&dl=0)
 
 ### Working Papers
