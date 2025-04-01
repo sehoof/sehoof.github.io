@@ -17,6 +17,12 @@ body {
   }
 }
 
+.page-header a {
+  margin-right: 0.25em;
+  padding: 0.25em 0.4em;
+  font-size: 0.95rem; /* Optional: slightly smaller text */
+}
+
 .site-header p {
     display: none !important; /* Hide the default description text */
 }
