@@ -22,7 +22,8 @@ with Anna M. Wilke and Tinghua Yu <br>
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
-with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu
+with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu <br>
+[Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
 with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu
@@ -36,7 +37,6 @@ with Karen Nershi
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
 with Uchechi S. Anaduaka, Cristina Mac Gregor Vanegas, and Anna M. Wilke <br>
-[Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with Greg Chih-Hsin Sheen
