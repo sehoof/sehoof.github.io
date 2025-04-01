@@ -10,18 +10,10 @@ p {
 }
 
 @media (max-width: 600px) {
-  .page-header {
-    flex-wrap: wrap; /* allow wrapping if needed */
-    justify-content: center; /* or flex-start */
-    gap: 0.25em; /* this helps control space between buttons */
-    padding: 0.5em 0.5em; /* reduce padding inside the nav bar */
-  }
-
-  .page-header a {
-    margin: 0 0.2em;
-    padding: 0.25em 0.4em;
-    font-size: 0.85rem;
-    white-space: nowrap; /* prevent awkward wrapping */
+  p {
+    text-align: left;
+    padding: 0 1em;
+    line-height: 1.6;
   }
 }
 
