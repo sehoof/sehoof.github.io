@@ -1,4 +1,4 @@
-[**Research**](Research.md) &nbsp; &nbsp; &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [**CV**](CV_Selina_Hofstetter.pdf) &nbsp; &nbsp; &nbsp; &nbsp;[**Contact**](Contact.md)
+[**Research**](Research.md) &nbsp; &nbsp; [**Teaching**](Teaching.md) &nbsp; &nbsp; [**CV**](CV_Selina_Hofstetter.pdf) &nbsp; &nbsp; [**Contact**](Contact.md)
 
 I am a Visiting Researcher at the Department of Political Science at the University of Zurich. From 2022-2025, I was an Assistant Professor in Political Science at Tecnológico de Monterrey in Monterrey, Mexico.
 
