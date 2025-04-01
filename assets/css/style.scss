@@ -13,8 +13,12 @@ body {
   font-size: 1rem;
 
   @media (max-width: 600px) {
-    font-size: 0.95rem;
+  p {
+    text-align: left;
+    padding: 0 1em;
+    line-height: 1.6;
   }
+}
 }
 
 .site-header p {
