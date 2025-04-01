@@ -6,26 +6,16 @@ Back to [Home page](/README.md)
 
 **Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
 
-<div>
-  <strong>Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation</strong><br>
-  with Greg Chih-Hsin Shee <br>
+**Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
+with Greg Chih-Hsin Shee <br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) <br>
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
 
-  <div class="responsive-links">
-    <a href="https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0" target="_blank">Working Paper (PDF)</a>
-    <a href="https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0" target="_blank">Online Appendix (PDF)</a>
-  </div>
-</div> <br>
-
-<div>
-  <strong>Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat</strong><br>
-  with Anna M. Wilke and Tinghua Yu<br>
-
-  <div class="responsive-links">
-    <a href="https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0" target="_blank">Working Paper (PDF)</a>
-    <a href="https://osf.io/8nvkg" target="_blank">Pre-Analysis Plan</a>
-    <a href="https://www.dropbox.com/scl/fi/yfdmhi28urtjh4p1x0kzx/Performing-Below-Expectations_Appendix.pdf?rlkey=0hdh9e2spj5zj9m58zvb319lj&dl=0" target="_blank">Online Appendix (PDF)</a>
-  </div>
-</div>
+**Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
+with Anna M. Wilke and Tinghua Yu <br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) <br>
+[Pre-Analysis Plan](https://osf.io/8nvkg) <br>
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/yfdmhi28urtjh4p1x0kzx/Performing-Below-Expectations_Appendix.pdf?rlkey=0hdh9e2spj5zj9m58zvb319lj&dl=0)
 
 ### Working Papers
 
