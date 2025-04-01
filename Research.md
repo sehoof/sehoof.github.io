@@ -6,10 +6,15 @@ Back to [Home page](/README.md)
 
 **Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
 
-**Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
-with Greg Chih-Hsin Sheen <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) <br>
-[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
+<div>
+  <strong>Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation</strong><br>
+  with Greg Chih-Hsin Shee <br>
+
+  <div class="responsive-links">
+    <a href="https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0" target="_blank">Working Paper (PDF)</a>
+    <a href="https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0" target="_blank">Online Appendix (PDF)</a>
+  </div>
+</div>
 
 <div>
   <strong>Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat</strong><br>
