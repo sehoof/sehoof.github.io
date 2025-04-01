@@ -14,7 +14,7 @@ Back to [Home page](/README.md)
     <a href="https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0" target="_blank">Working Paper (PDF)</a>
     <a href="https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0" target="_blank">Online Appendix (PDF)</a>
   </div>
-</div>
+</div> <br>
 
 <div>
   <strong>Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat</strong><br>
