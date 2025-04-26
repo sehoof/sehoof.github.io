@@ -12,6 +12,7 @@ with Greg Chih-Hsin Shee <br>
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
 
 **Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
+_R&R at Survey Research Methods_ <br>
 with Anna M. Wilke and Tinghua Yu <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
