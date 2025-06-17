@@ -38,6 +38,7 @@ with Karen Nershi
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
 with Uchechi S. Anaduaka, Cristina Mac Gregor Vanegas, and Anna M. Wilke <br>
+[Pre-Analysis Plan](https://osf.io/67nsu)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with Greg Chih-Hsin Sheen
