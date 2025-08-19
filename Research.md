@@ -11,12 +11,12 @@ with Greg Chih-Hsin Shee <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
 
-**Performing Below Expectations - How to Conduct Survey Experiments on Identity Threat** <br>
+**Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
 _R&R at Survey Research Methods_ <br>
 with Anna M. Wilke and Tinghua Yu <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/idga1j88omceogfypzw3g/Performing-Below-Expectations.pdf?rlkey=qst2ao3be5rimjv28uywr3laz&dl=0) &nbsp;
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/vhc214smxygw6vz29kbs7/Triggering-without-Deceiving.pdf?rlkey=xn1tu14ll9j4ncn309y8259eq&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
-[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/yfdmhi28urtjh4p1x0kzx/Performing-Below-Expectations_Appendix.pdf?rlkey=0hdh9e2spj5zj9m58zvb319lj&dl=0)
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/915mc23e4ceei2tdutyq5/Triggering-without-Deceiving_Appendix.pdf?rlkey=y9ddgdh9xkjl7calxxvut9e73&dl=0)
 
 ### Working Papers
 
