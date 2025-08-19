@@ -27,7 +27,7 @@ with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu <br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
-with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu
+with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
 with Karen Nershi
