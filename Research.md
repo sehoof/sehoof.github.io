@@ -28,6 +28,7 @@ with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coautho
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
 with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
+[Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
 with Karen Nershi
@@ -37,11 +38,11 @@ with Karen Nershi
 ### Work in Progress
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
-with Uchechi S. Anaduaka, Cristina Mac Gregor Vanegas, and Anna M. Wilke <br>
+with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://as.nyu.edu/departments/politics/directory/PhDStudents.html" class="coauthor-link"> Cristina Mac Gregor Vanegas </a>, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
 [Pre-Analysis Plan](https://osf.io/67nsu)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
-with Greg Chih-Hsin Sheen
+with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
 
 ### Funded Projects
 
