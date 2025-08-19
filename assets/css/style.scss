@@ -24,3 +24,12 @@ p {
 .site-footer {
     display: none !important;
 }
+
+a.coauthor-link {
+  color: inherit !important;          /* same color as normal text */
+  text-decoration: none !important;   /* no underline */
+}
+
+a.coauthor-link:hover {
+  text-decoration: underline !important; /* underline only on hover */
+}
