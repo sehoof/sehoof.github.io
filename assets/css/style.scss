@@ -25,11 +25,19 @@ p {
     display: none !important;
 }
 
-a.coauthor-link {
-  color: black !important;
+.markdown-body a.coauthor-link,
+a.coauthor-link,
+.markdown-body a.coauthor-link:visited,
+a.coauthor-link:visited {
+  color: #000 !important;
   text-decoration: none !important;
+  border-bottom: none !important;  /* some themes use this as underline */
+  box-shadow: none !important;     /* some themes fake underlines this way */
 }
 
-a.coauthor-link:hover {
-  text-decoration: underline !important;
+.markdown-body a.coauthor-link:hover,
+a.coauthor-link:hover,
+.markdown-body a.coauthor-link:focus,
+a.coauthor-link:focus {
+  text-decoration: underline !important; /* optional */
 }
