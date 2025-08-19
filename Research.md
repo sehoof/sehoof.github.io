@@ -23,11 +23,11 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
-with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu <br>
+with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
-with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>
+with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
 with Karen Nershi
