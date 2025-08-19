@@ -39,7 +39,6 @@ with Karen Nershi
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
 with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://as.nyu.edu/departments/politics/directory/PhDStudents.html" class="coauthor-link"> Cristina Mac Gregor Vanegas </a>, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
-[Pre-Analysis Plan](https://osf.io/67nsu)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
