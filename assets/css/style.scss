@@ -25,11 +25,11 @@ p {
     display: none !important;
 }
 
-.coauthor-link {
-  color: black;
-  text-decoration: none;
+a.coauthor-link {
+  color: black !important;
+  text-decoration: none !important;
 }
 
-.coauthor-link:hover {
-  text-decoration: underline; 
+a.coauthor-link:hover {
+  text-decoration: underline !important;
 }
