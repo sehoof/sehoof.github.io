@@ -47,5 +47,5 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 
 2022-2025. Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>. $475,000
 
-2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Co-PI with Mikkel Dack, Victor Gay, and Jan Stuckatz. Approx. $335,472 <br>
+2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Co-PI with <a href="https://www.mikkeldack.com/" class="coauthor-link"> Mikkel Dack </a>, <a href="https://victorgay.netlify.app/" class="coauthor-link"> Victor Gay </a>, and <a href="https://www.janstuckatz.com/" class="coauthor-link"> Jan Stuckatz </a>. Approx. $335,472 <br>
 [ANR Project Summary](https://anr.fr/Project-ANR-21-FRAL-0005) 
