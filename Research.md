@@ -31,7 +31,7 @@ with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauth
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
-with Karen Nershi
+with <a href="https://www.karennershi.com/" class="coauthor-link"> Karen Nershi </a><br>
 
 **What Drives Support for Enfranchisement? - The Case of Swiss Female Suffrage**
 
