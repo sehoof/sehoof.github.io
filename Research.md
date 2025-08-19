@@ -23,11 +23,11 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
-with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
+with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
-with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
+with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
@@ -38,14 +38,14 @@ with Karen Nershi
 ### Work in Progress
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
-with <a href="https://poverty-action.org/people/uchechi-anaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://as.nyu.edu/departments/politics/directory/PhDStudents.html" class="coauthor-link"> Cristina Mac Gregor Vanegas </a>, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
+with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, Cristina Mac Gregor Vanegas, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
 with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
 
 ### Funded Projects
 
-2022-2025. Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with Uchechi S. Anaduaka, Anna M. Wilke, and Tinghua Yu. $475,000
+2022-2025. Evaluation of SKY, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka </a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>. $475,000
 
 2022–2026. ANR-DFG Grant (DeNazDB) "Who Became a Nazi? A Structured Database of the Denazification Questionnaires from French and American Occupation Zones in Germany, 1945–1949". Co-PI with Mikkel Dack, Victor Gay, and Jan Stuckatz. Approx. $335,472 <br>
 [ANR Project Summary](https://anr.fr/Project-ANR-21-FRAL-0005) 
