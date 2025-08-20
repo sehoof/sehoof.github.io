@@ -13,7 +13,7 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 
 **Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
 _R&R at Survey Research Methods_ <br>
-with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
+with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/vhc214smxygw6vz29kbs7/Triggering-without-Deceiving.pdf?rlkey=xn1tu14ll9j4ncn309y8259eq&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/915mc23e4ceei2tdutyq5/Triggering-without-Deceiving_Appendix.pdf?rlkey=y9ddgdh9xkjl7calxxvut9e73&dl=0)
