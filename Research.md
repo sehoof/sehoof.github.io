@@ -10,7 +10,7 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
 
 **Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
-_R&R at Survey Research Methods_ <br>
+_Revise & Resubmit, Survey Research Methods_ <br>
 with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/vhc214smxygw6vz29kbs7/Triggering-without-Deceiving.pdf?rlkey=xn1tu14ll9j4ncn309y8259eq&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
