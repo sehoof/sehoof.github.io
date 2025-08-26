@@ -4,8 +4,6 @@ Back to [Home page](/README.md)
 
 ### Papers Under Review
 
-**Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
-
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp;
@@ -19,6 +17,8 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> 
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/915mc23e4ceei2tdutyq5/Triggering-without-Deceiving_Appendix.pdf?rlkey=y9ddgdh9xkjl7calxxvut9e73&dl=0)
 
 ### Working Papers
+
+**Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
 
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
