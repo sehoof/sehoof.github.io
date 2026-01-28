@@ -4,10 +4,11 @@ Back to [Home page](/README.md)
 
 ### Papers Under Review
 
-**Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
-with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp;
-[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
+**Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
+with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/a23b4z72a57yvdbb9m8wi/Empowerment-and-Restraint.pdf?rlkey=ab2y3p3g4ev2i0fgjasmpivzi&dl=0) &nbsp;
+[Pre-Analysis Plan](https://osf.io/t87y6) &nbsp;
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/a33ntiolv8kl0ezllf3l6/Empowerment-and-Restraint-Appendix.pdf?rlkey=h66f8jo0sptshcd62469pe3xm&dl=0)
 
 **Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
 _Revise & Resubmit, Survey Research Methods_ <br>
@@ -16,17 +17,16 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> 
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/915mc23e4ceei2tdutyq5/Triggering-without-Deceiving_Appendix.pdf?rlkey=y9ddgdh9xkjl7calxxvut9e73&dl=0)
 
+**Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
+with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
+[Working Paper (PDF)](https://www.dropbox.com/scl/fi/aqfhleq5wt76pbjhzgk8r/Partisan-Incumbency-Disadvantage.pdf?rlkey=zi9xiuer1x3wctfv8zw24pwhs&dl=0) &nbsp;
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/z5xooaqrwccm2bm79lwim/Partisan-Incumbency-Disadvantage_Appendix.pdf?rlkey=gi6y418be1kk6m99znvssam2j&dl=0)
+
 ### Working Papers
 
 **Does Enfranchisement Equal Empowerment? - Evidence from Women's Suffrage in Late 20th Century Switzerland**
 
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
-
-**Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
-with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/a23b4z72a57yvdbb9m8wi/Empowerment-and-Restraint.pdf?rlkey=ab2y3p3g4ev2i0fgjasmpivzi&dl=0) &nbsp;
-[Pre-Analysis Plan](https://osf.io/t87y6) &nbsp;
-[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/a33ntiolv8kl0ezllf3l6/Empowerment-and-Restraint-Appendix.pdf?rlkey=h66f8jo0sptshcd62469pe3xm&dl=0)
 
 **Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
 with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
