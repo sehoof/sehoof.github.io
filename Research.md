@@ -11,7 +11,7 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>,
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/a33ntiolv8kl0ezllf3l6/Empowerment-and-Restraint-Appendix.pdf?rlkey=h66f8jo0sptshcd62469pe3xm&dl=0)
 
 **Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
-_Revise & Resubmit, Survey Research Methods_ <br>
+_Conditionally accepted, Survey Research Methods_ <br>
 with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/vhc214smxygw6vz29kbs7/Triggering-without-Deceiving.pdf?rlkey=xn1tu14ll9j4ncn309y8259eq&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
