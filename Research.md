@@ -5,7 +5,7 @@ Back to [Home page](/README.md)
 ### Papers Under Review
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
-_R&R at American Political Science Review_ <br>
+_Revise & Resubmit at American Political Science Review_ <br>
 with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/a23b4z72a57yvdbb9m8wi/Empowerment-and-Restraint.pdf?rlkey=ab2y3p3g4ev2i0fgjasmpivzi&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/t87y6) &nbsp;
