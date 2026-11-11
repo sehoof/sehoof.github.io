@@ -2,6 +2,15 @@ Back to [Home page](/README.md)
 
 # Research
 
+### Peer-Reviewed Articles
+
+**Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
+_Survey Research Methods_ <br>
+with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
+[Published Article](https://ojs.ub.uni-konstanz.de/srm/article/view/8551) &nbsp;
+[Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
+[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/v5hmj6r2siv021k50xsl4/Triggering-without-Deceiving_Appendix_Round-3.pdf?rlkey=5d8rdu6gbqwhv1o200whuhx57&dl=0)
+
 ### Papers Under Review
 
 **Empowerment and Restraint – Evidence from Teenage Girls’ Clubs in Kenya** <br>
@@ -10,13 +19,6 @@ with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>,
 [Working Paper (PDF)](https://www.dropbox.com/scl/fi/a23b4z72a57yvdbb9m8wi/Empowerment-and-Restraint.pdf?rlkey=ab2y3p3g4ev2i0fgjasmpivzi&dl=0) &nbsp;
 [Pre-Analysis Plan](https://osf.io/t87y6) &nbsp;
 [Online Appendix (PDF)](https://www.dropbox.com/scl/fi/a33ntiolv8kl0ezllf3l6/Empowerment-and-Restraint-Appendix.pdf?rlkey=h66f8jo0sptshcd62469pe3xm&dl=0)
-
-**Triggering without Deceiving - An Attempt at Designing a Non-Deceptive Male Identity Threat Treatment** <br>
-_Forthcoming in Survey Research Methods_ <br>
-with <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a> and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a> <br>
-[Working Paper (PDF)](https://www.dropbox.com/scl/fi/0owq1chd6j2ml0xxy29dy/Triggering-without-Deceiving_Round-3.pdf?rlkey=hjylsi662ghlx9e0o3dnsabhg&dl=0) &nbsp;
-[Pre-Analysis Plan](https://osf.io/8nvkg) &nbsp;
-[Online Appendix (PDF)](https://www.dropbox.com/scl/fi/v5hmj6r2siv021k50xsl4/Triggering-without-Deceiving_Appendix_Round-3.pdf?rlkey=5d8rdu6gbqwhv1o200whuhx57&dl=0)
 
 **Partisan Incumbency Disadvantage - An Empirical Strategy to Exclude an Alternative Explanation** <br>
 with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-link"> Greg Chih-Hsin Sheen </a><br>
