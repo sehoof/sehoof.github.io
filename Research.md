@@ -31,8 +31,8 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
-**Lessons that Spread: A Field Experiment on Spillover Effects from an HIV Media Campaign in Kenya** <br>
-with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
+**Entertain, Educate, Destigmatize -- Experimental Evidence from a Multi-Component HIV Intervention for Adolescent Girls in Kenya** <br>
+with Giorgia Ferrari, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
 **Ranked Choice Voting and Candidate Electability in California's Local Elections** <br>
