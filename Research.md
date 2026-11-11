@@ -31,7 +31,7 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 
 **Deliberation with New Voters: When Women's Suffrage Decreases Government Expenditure**
 
-**Entertain, Educate, Destigmatize -- Experimental Evidence from a Multi-Component HIV Intervention for Adolescent Girls in Kenya** <br>
+**Entertain, Educate, Destigmatize - Experimental Evidence from a Multi-Component HIV Intervention for Adolescent Girls in Kenya** <br>
 with Giorgia Ferrari, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a><br>
 [Pre-Analysis Plan](https://osf.io/t87y6)
 
@@ -43,7 +43,7 @@ with <a href="https://www.karennershi.com/" class="coauthor-link"> Karen Nershi 
 ### Work in Progress
 
 **A Field Experiment on Teenage Girl Empowerment in Lagos, Nigeria** <br>
-with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, Cristina Mac Gregor Vanegas, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
+with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://cristinamacgregorv.com/" class="coauthor-link"> Cristina Mac Gregor Vanegas</a>, and <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke </a><br>
 [Pre-Analysis Plan](https://osf.io/67nsu/overview)
 
 **Media Literacy & Perceived Media Bias in the US - A Survey Experiment** <br> 
