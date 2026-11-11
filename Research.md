@@ -51,7 +51,7 @@ with <a href="https://sites.google.com/site/gregchsheen/home" class="coauthor-li
 
 ### Funded Projects
 
-2026-2027. Evaluation of SKY in Cˆote d’Ivoire, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>. $475,000
+2026-2027. Evaluation of SKY in Côte d’Ivoire, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>. $475,000
 
 2022-2025. Evaluation of SKY in Kenya & Nigeria, a multi-media programme focused on teenage girls in Africa, implemented by Good Business Ltd (a grantee of the Bill & Melinda Gates Foundation). Co-PI with <a href="https://sites.google.com/prod/view/UchechiSAnaduaka" class="coauthor-link"> Uchechi S. Anaduaka</a>, <a href="https://anna-wilke.com/" class="coauthor-link"> Anna M. Wilke</a>, and <a href="https://sites.google.com/view/tinghua-yu" class="coauthor-link"> Tinghua Yu </a>. $475,000
 
