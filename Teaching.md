@@ -3,7 +3,7 @@ Back to [Home page](/README.md)
 # Teaching
 
 **Tecnológico de Monterrey**
-* **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* - Department of Political Science & International Relations (undergraduate)
+* **Fall 2022-2024 & Winter 2025** - *Public Choice & Comparative Political Institutions* (game theory) - Department of Political Science & International Relations (undergraduate)
 <br/><br/>
 * **Spring 2023 & Fall 2024** - *Microeconomic Incentives & Macroeconomic Outcomes* - Department of Economics (undergraduate)
 <br/><br/>
@@ -25,9 +25,9 @@ Back to [Home page](/README.md)
 <br/><br/>
 * **Spring 2019** - *Public Policy in Practice Workshop* - LSE, School of Public Policy (graduate)
 <br/><br/>
-* **Summer 2018** - *The Political Economy of Public Policy* - LSE, Economics Department (undergraduate)
+* **Summer 2018** - *The Political Economy of Public Policy* (game theory) - LSE, Economics Department (undergraduate)
 <br/><br/>
-* **Fall & Spring 2016-2018** - *Public Choice & Politics* - LSE, Government Department (undergraduate)
+* **Fall & Spring 2016-2018** - *Public Choice & Politics* (game theory) - LSE, Government Department (undergraduate)
 <br/><br/>
 * **Fall 2017** - *Applied Regression Analysis* - LSE, Methodology Department (graduate)
 <br/><br/>
